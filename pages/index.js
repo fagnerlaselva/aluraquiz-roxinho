@@ -47,7 +47,7 @@ export default function Home() {
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/fagnerlaselva" />
+      <GitHubCorner projectUrl="https://github.com/fagnerlaselva/aluraquiz-roxinho" />
     </QuizBackground>
   );
 }
