@@ -1,0 +1,43 @@
+{
+    "bg": "https://i1.wp.com/blog.nubank.com.br/wp-content/uploads/2020/11/investir-na-bolsa.jpg?resize=1536%2C640&ssl=1",
+    "title": "Quiz Curiosidades Nubank",
+    "description": " Vamos ver o que você sabe sobre o roxinho.",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Qual foi a primeira compra com cartão Nubank?",
+        "description": "Essa é fácil",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://i0.wp.com/blog.nubank.com.br/wp-content/uploads/2020/11/1_header.png?w=1440&ssl=1",
+        "title": "Qual o nome do seguro de vida nubank? ",
+        "description": "Só alegria",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#8a05be",
+        "secondary": "#A25ED7",
+        "mainBg": "#171B35",
+        "contrastText": "#fff",
+        "wrong": "#D65D5D",
+        "success": "#5DD679"
+      },
+      "borderRadius": "4px"
+    }
+  }
