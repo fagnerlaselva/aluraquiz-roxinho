@@ -36,6 +36,18 @@ export default function App({ Component, pageProps }) {
     <>
       <Head>
         <title>Quiz Curiosidades Nubank</title>
+        <meta name="title" content="Quiz Curiosidades Nubank" />
+        <meta name="description" content="Venha testar seus conhecimentos sobre o roxinho mais amado do Brasil" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://aluraquiz-roxinho.vercel.app/" />
+        <meta property="og:title" content="Quiz Curiosidades Nubank" />
+        <meta property="og:description" content="Venha testar seus conhecimentos sobre o roxinho mais amado do Brasil" />
+        <meta property="og:image" content="" />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://aluraquiz-roxinho.vercel.app/" />
+        <meta property="twitter:title" content="Quiz Curiosidades Nubank" />
+        <meta property="twitter:description" content="Venha testar seus conhecimentos sobre o roxinho mais amado do Brasil" />
+        <meta property="twitter:image" content="" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <ThemeProvider theme={theme}>
